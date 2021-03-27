@@ -1,0 +1,7 @@
+C:\Repos Visual\Chat_multi\Chat_multi\bin\Debug\Chat_multi.exe.config
+C:\Repos Visual\Chat_multi\Chat_multi\bin\Debug\Chat_multi.exe
+C:\Repos Visual\Chat_multi\Chat_multi\bin\Debug\Chat_multi.pdb
+C:\Repos Visual\Chat_multi\Chat_multi\obj\Debug\Chat_multi.csprojAssemblyReference.cache
+C:\Repos Visual\Chat_multi\Chat_multi\obj\Debug\Chat_multi.csproj.CoreCompileInputs.cache
+C:\Repos Visual\Chat_multi\Chat_multi\obj\Debug\Chat_multi.exe
+C:\Repos Visual\Chat_multi\Chat_multi\obj\Debug\Chat_multi.pdb
